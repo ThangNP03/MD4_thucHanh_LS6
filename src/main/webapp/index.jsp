@@ -9,6 +9,8 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
+<a href = "ServletTime">ServletTime</a>
 <a href="views/ListTodo.jsp"> todo</a>
+<a href="LoginServlet">Login</a>
 </body>
 </html>
